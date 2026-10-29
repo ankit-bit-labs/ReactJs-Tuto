@@ -1,0 +1,17 @@
+.Nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(180, 172, 187);
+}
+.Nav .links{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    gap: 14px;
+}
+
+.Nav .links:hover{
+    background-color: rgb(240, 240, 40);
+    color: black;
+}
